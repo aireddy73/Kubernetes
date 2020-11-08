@@ -1,5 +1,3 @@
 # Kubernetes
 kubernetes
-mrbobbytables
-/
-k8s-intro-tutorials
+https://github.com/mrbobbytables/k8s-intro-tutorials 
