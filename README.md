@@ -20,20 +20,7 @@
 
 <DL><p>
         <DT><H3 ADD_DATE="1596599838" LAST_MODIFIED="1597181536">CKAD</H3> 
-		<DT><A HREF="https://github.com/mrbobbytables/k8s-intro-tutorials"> K8S Tutorials</A>
-				<DT><A HREF="https://github.com/aireddy73/Kubernetes-Certified-Administrator"> K8S Walid Shaari </A>
-				<DT><A HREF="https://github.com/aireddy73/CKAD-Practice-Questions"> Bhargav Bachina </A>
-				<DT><A HREF="https://github.com/aireddy73/CKAD-exercises "> CKA Zeal Vora</A>
-				<DT><A HREF="https://github.com/aireddy73/CKAD-exercises"> CKAD - Dimitris-Ilias Gkanatsios </A> 
-				<DT> <A HREF="https://github.com/aireddy73/ckad" > CKAD - Subodh Dharmadhikari</A>
-				<DT> <A HREF= "https://github.com/aireddy73/k8s-guide "> Eric Shanks </A>
-				<DT> <A HREF= "https://github.com/aireddy73/ckad-prep"> Benjamin Muschko </A>
-				<DT> <A HREF= "https://github.com/aireddy73/kubernetes-network-policy-recipes " > Network Policies </A>
-				<DT> <A HREF= "https://github.com/aireddy73/K8s-training-official" > K8S Tutorials </A>
-				<DT> <A HREF= ""> </A>
-				<DT> <A HREF= ""> </A>
-				
-				<DL><p>
+	
 
         <DL><p>
             <DT><H3 ADD_DATE="1596599860" LAST_MODIFIED="1596650209">Core Concepts</H3>
