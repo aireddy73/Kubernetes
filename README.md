@@ -5,7 +5,7 @@
 				<DT><A HREF="https://github.com/aireddy73/Kubernetes-Certified-Administrator"> K8S Walid Shaari </A>
 				<DT><A HREF="https://github.com/aireddy73/CKAD-Practice-Questions"> Bhargav Bachina </A>
 				<DT><A HREF="https://github.com/aireddy73/CKAD-exercises "> CKA Zeal Vora</A> 
-        <DT><A HREF="https://github.com/aireddy73/certified-kubernetes-application-developer"> CKAD Zeal Vora /A> 
+        <DT><A HREF="https://github.com/aireddy73/certified-kubernetes-application-developer"> CKAD Zeal Vora </A> 
 				<DT><A HREF="https://github.com/aireddy73/CKAD-exercises"> CKAD - Dimitris-Ilias Gkanatsios </A> 
 				<DT> <A HREF="https://github.com/aireddy73/ckad" > CKAD - Subodh Dharmadhikari</A>
 				<DT> <A HREF= "https://github.com/aireddy73/k8s-guide "> Eric Shanks </A>
