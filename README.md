@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+
+<body style="background-color:powderblue;">
+
 
 <h2>Kubernetes URLs</h2>
 <p><a href="https://github.com/aireddy73/K8s-training-official">K8S</a></p>
