@@ -1,5 +1,5 @@
 
-   <DT><H3 ADD_DATE="1597182272" LAST_MODIFIED="1597192613">Kubernetes References</H3>
+   <DT><H3 ADD_DATE="1597182272" LAST_MODIFIED="1597192613">K8s Practice Training</H3>
         <DL><p>
         <DT><A HREF="https://github.com/aireddy73/K8s-training-official"> K8S Tutorials</A>
 				<DT><A HREF="https://github.com/aireddy73/Kubernetes-Certified-Administrator"> K8S Walid Shaari </A>
