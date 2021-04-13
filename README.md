@@ -40,6 +40,22 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Services and networking - 13%](f.services.md)
 - [State persistence - 8%](g.state.md)
 
+# Where to Practice 
+
+- [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
+
+   Or, directly click below mentioned links, no login required:
+
+- [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
+- [Configuration - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/configuration.html)
+- [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
+- [Observability - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/observability.html)
+- [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
+- [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
+- [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
+
+[creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
+
 # Tasks from Kubernetes Doc
 The following are primarily links to either the 'concepts' or 'tasks' section of the kubernetes.io documentation. The 'task' items are very useful to use as labs. I've tied them directly to the curriculum to ensure they are appropriate study material for the exam.
 
