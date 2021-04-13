@@ -526,8 +526,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 
 
 ### References
-- [here](https://github.com/aireddy73/K8s-training-official)
-- [here](https://github.com/aireddy73/Kubernetes-Certified-Administrator) K8S Walid Shaari
+- [ K8S Walid Shaari](https://github.com/aireddy73/Kubernetes-Certified-Administrator) K8S Walid Shaari
 - [here](https://github.com/aireddy73/CKAD-Practice-Questions) Bhargav Bachina 
 - [here](https://github.com/aireddy73/CKAD-exercises) CKA Zeal Vora
 - [here](https://github.com/aireddy73/certified-kubernetes-application-developer) CKAD Zeal Vora
