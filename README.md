@@ -195,9 +195,9 @@ The list below is based on the curriculum v1.20. Once you have mastered a sectio
 - [ ] __Pod Design - 20%__
   - [ ] Using Labels, Selectors, and Annotations
   - [ ] Understand Deployments and Rolling Updates
-  - [] Understand Deployment Rollbacks
+  - [ ] Understand Deployment Rollbacks
   - [ ] Understand Jobs and CronJobs
-- [ ] - __State Persistence - 8%__
+- [ ] __State Persistence - 8%__
   - [ ] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
   - [ ] Liveness and Readiness Probes
