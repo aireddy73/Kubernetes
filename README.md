@@ -1,6 +1,8 @@
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
+
+[![GoPkg Widget]][GoPkg] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
+
+<img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
+
 
 # Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
@@ -547,3 +549,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [Tom Armstrong CKAD](https://github.com/twajr/ckad-prep-notes)
 - [Medium Blog](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
 - [Medium Blog Anh Dang](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
+
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
