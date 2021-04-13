@@ -76,12 +76,7 @@ The following are primarily links to either the 'concepts' or 'tasks' section of
 - [Tasks -> Declare Network Policy](https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/)
 
 
-### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
-
-Absolutely! Feel free to PR and edit/add questions and solutions, but please stick to the existing format. 
-
-
-# ckad-prep-notes
+# CKAD Exam Preparation Notes
 List of resources and notes for passing the Certified Kubernetes Application Developer (CKAD) exam. Official links below.
 
 - [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
@@ -525,32 +520,22 @@ metadata:
   name: my-secret
 ```
 
-<!DOCTYPE html>
-<html>
-<body style="background-color:powderblue;">
+### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
 
-
-<h2>Kubernetes URLs</h2>
-<p><a href="https://github.com/aireddy73/K8s-training-official">K8S</a></p>
-<p><a href="https://github.com/aireddy73/Kubernetes-Certified-Administrator">K8S Walid Shaari</a></p>
-<p><a href="https://github.com/aireddy73/CKAD-Practice-Questions"> Bhargav Bachina </a></p>
-
-<p><a href="https://github.com/aireddy73/CKAD-exercises  "> CKA Zeal Vora </a></p>
-
-<p><a href="https://github.com/aireddy73/certified-kubernetes-application-developer"> CKAD Zeal Vora  </a></p>
-
-<p><a href="https://github.com/aireddy73/CKAD-exercises "> CKAD - Dimitris-Ilias Gkanatsios  </a></p>
-
-<p><a href="https://github.com/aireddy73/ckad ">  CKAD - Subodh Dharmadhikari  </a></p>
-<p><a href="https://github.com/aireddy73/k8s-guide ">  Eric Shanks </a></p>
-<p><a href="https://github.com/aireddy73/K8s-training-official ">  K8S Tutorials</a></p>
-<p><a href="https://github.com/aireddy73/kubernetes-network-policy-recipes "> Network Policies   </a></p>
-
-</body>
-</html>
+Absolutely! Feel free to PR and edit/add questions and solutions, but please stick to the existing format. 
 
 
 ### References
+- [here](https://github.com/aireddy73/K8s-training-official)
+- [here](https://github.com/aireddy73/Kubernetes-Certified-Administrator) K8S Walid Shaari
+- [here](https://github.com/aireddy73/CKAD-Practice-Questions) Bhargav Bachina 
+- [here](https://github.com/aireddy73/CKAD-exercises) CKA Zeal Vora
+- [here](https://github.com/aireddy73/certified-kubernetes-application-developer) CKAD Zeal Vora
+- [here](https://github.com/aireddy73/CKAD-exercises) CKAD - Dimitris-Ilias Gkanatsios
+- [here](https://github.com/aireddy73/ckad) CKAD - Subodh Dharmadhikari
+- [here](https://github.com/aireddy73/k8s-guide) Eric Shanks
+- [here](https://github.com/aireddy73/K8s-training-official) K8S Tutorials 
+- [here](https://github.com/aireddy73/kubernetes-network-policy-recipes) Network Policies
 - [here](https://github.com/twajr/ckad-prep-notes) from twajr
 - [here](https://www.reddit.com/r/kubernetes/comments/9uydc1/passed_the_ckad_special_thanks_to_the_linux/) from Blockchain0
 - [here](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9) from abdennour
