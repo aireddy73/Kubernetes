@@ -3,7 +3,17 @@
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
+# Curriculum
 
+Open Source Curriculum for CNCF Certification Courses
+
+This is the the latest version of the curriculum for the following CNCF exams:
+
+* Certified Kubernetes Administrator (CKA)
+* Certified Kubernetes Application Developer (CKAD)
+* Certified Kubernetes Security Specialist (CKS)
+- [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
+- [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum)
 
 # Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
