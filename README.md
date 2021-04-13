@@ -193,10 +193,25 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Understand Services
   - [x] Basic Network Policies
 
-# Where to Practice
-This particular items was difficult for me as I didn't have a (current) k8s cluster to use at work. As I was initially studying for the CKA which requires more cluster-level work, I tried many, many different approaches for an inexpensive k8s environment. built many clusters using K8s The Hard way on gcloud (and AWS), built a raspberry pi cluster I could carry to work, and tried using kubeadm / kops on gcloud and aws.
+# Where to Practice 
 
-In my opinion, and all that is required to pass this test, is to just setup a gcloud account, and use a two-node GKE cluster for studying. Heck, you can even use the very nice google cloud shell and not even leave your browser.
+
+Access the practice test environment on Katacoda:
+https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges.
+
+Or, directly using these links, no login required:
+
+Core Concepts - 13%
+Configuration - 18%
+Multi-Container Pods - 10%
+Observability - 18%
+Pod Design - 20%
+Services & Networking - 13%
+State Persistence - 8%
+
+This particular items was difficult for me as I didn't have a (current) k8s cluster to use at work. As I was initially studying for the CKA which requires more cluster-level work, I tried many, many different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud. In my opinion, and all that is required to pass this test. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
+
+-[creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
 
 [gcloud command line (SDK) documentation](https://cloud.google.com/sdk/)
 
