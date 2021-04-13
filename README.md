@@ -3,9 +3,9 @@
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
 
 # Getting Started with Kubernetes
-[Getting Started with Kubernetes](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/) 
-[Kubernetes Certified Application Developer (CKAD)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-[Certified Kubernetes Administrator (CKA)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+-[Getting Started with Kubernetes Eric Shanks](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/) 
+-[Kubernetes Certified Application Developer (CKAD) Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+-[Certified Kubernetes Administrator (CKA) Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
 # CKAD Exercises
 
