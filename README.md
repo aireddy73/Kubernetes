@@ -179,40 +179,38 @@ I think the best approach is to fork this repo as a starting point for your stud
 # Current Progress
 The list below is based on the curriculum v1.0. Once you have mastered a section, check it off and move on to the next. You need to understand them ALL very well. The Core Concepts piece is kind of vague, but the others are defined well enough that it is easy to prepare for with a hands-on work through the tasks offered at kubernetes.io. The rest of this document follows this same outline of curriculum.
 
-- [x] __Core Concepts - 13%__
-  - [x] API Primitives
-  - [x] Create and Configure Basic Pods
+- [ ] __Core Concepts - 13%__
+  - [ ] API Primitives
+  - [ ] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
-  - [x] Understand ConfigMaps
-  - [x] Understand SecurityContexts
-  - [x] Define App Resource Requirements
+  - [ ] Understand ConfigMaps
+  - [ ] Understand SecurityContexts
+  - [ ] Define App Resource Requirements
   - [ ] Create and Consume Secrets
-  - [x] Understand Service Accounts
+  - [ ] Understand Service Accounts
 - [ ] __Multi-Container Pods - 10%__
   - [ ] Design Patterns: Ambassador, Adapter, Sidecar
     - [ ] - Sidecar Pattern
     - [ ] - Init Containers
-- [x] __Pod Design - 20%__
-  - [x] Using Labels, Selectors, and Annotations
-  - [x] Understand Deployments and Rolling Updates
-  - [x] Understand Deployment Rollbacks
-  - [x] Understand Jobs and CronJobs
+- [ ] __Pod Design - 20%__
+  - [ ] Using Labels, Selectors, and Annotations
+  - [ ] Understand Deployments and Rolling Updates
+  - [] Understand Deployment Rollbacks
+  - [ ] Understand Jobs and CronJobs
 - [ ] - __State Persistence - 8%__
   - [ ] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
-  - [x] Liveness and Readiness Probes
-  - [x] Understand Container Logging
+  - [ ] Liveness and Readiness Probes
+  - [ ] Understand Container Logging
   - [ ] Understand Monitoring Application in Kubernetes
-  - [x] Understand Debugging in Kubernetes
-- [x] __Services and Networking - 13%__
-  - [x] Understand Services
-  - [x] Basic Network Policies
+  - [ ] Understand Debugging in Kubernetes
+- [ ] __Services and Networking - 13%__
+  - [ ] Understand Services
+  - [ ] Basic Network Policies
 
-# Create 2 Node Cluster
+# Create 2 Node Clusteron GKE
 
-This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, and all that is required to pass this test. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
-
-[creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
+This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, that is all it required to pass this exam. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
 
 [gcloud command line (SDK) documentation](https://cloud.google.com/sdk/)
 
