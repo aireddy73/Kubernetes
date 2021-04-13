@@ -208,7 +208,7 @@ The list below is based on the curriculum v1.20. Once you have mastered a sectio
   - [ ] Understand Services
   - [ ] Basic Network Policies
 
-# Create 2 Node Clusteron GKE
+# Create 2 Node Cluster on GKE
 
 This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, that is all it required to pass this exam. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
 
