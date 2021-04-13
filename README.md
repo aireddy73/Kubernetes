@@ -2,7 +2,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
 
--[Getting Started with Kubernetes](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/)
+# Getting Started with Kubernetes
+[Getting Started with Kubernetes](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/)
 # CKAD Exercises
 
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation, organized by curriculum domain. They may as well serve as learning and practicing with Kubernetes.
