@@ -208,21 +208,7 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Understand Services
   - [x] Basic Network Policies
 
-# Where to Practice 
-
-
-Access the practice test environment on Katacoda:
-https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges.
-
-Or, directly using these links, no login required:
-
-- [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
-- [Configuration - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/configuration.html)
-- [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
-- [Observability - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/observability.html)
-- [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
-- [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
-- [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html)
+# Create 2 Node Cluster
 
 This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, and all that is required to pass this test. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
 
