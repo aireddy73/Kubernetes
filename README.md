@@ -43,7 +43,6 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 # Where to Practice 
 
 - [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
-- [Directly click below mentioned links, no login required:]
 - [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
 - [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
 - [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
