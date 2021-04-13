@@ -526,16 +526,13 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 
 
 ### References
-- [ K8S Walid Shaari](https://github.com/aireddy73/Kubernetes-Certified-Administrator) K8S Walid Shaari
-- [here](https://github.com/aireddy73/CKAD-Practice-Questions) Bhargav Bachina 
-- [here](https://github.com/aireddy73/CKAD-exercises) CKA Zeal Vora
-- [here](https://github.com/aireddy73/certified-kubernetes-application-developer) CKAD Zeal Vora
-- [here](https://github.com/aireddy73/CKAD-exercises) CKAD - Dimitris-Ilias Gkanatsios
-- [here](https://github.com/aireddy73/ckad) CKAD - Subodh Dharmadhikari
-- [here](https://github.com/aireddy73/k8s-guide) Eric Shanks
-- [here](https://github.com/aireddy73/K8s-training-official) K8S Tutorials 
-- [here](https://github.com/aireddy73/kubernetes-network-policy-recipes) Network Policies
-- [here](https://github.com/twajr/ckad-prep-notes) from twajr
-- [here](https://www.reddit.com/r/kubernetes/comments/9uydc1/passed_the_ckad_special_thanks_to_the_linux/) from Blockchain0
-- [here](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9) from abdennour
-- [here](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e) from Anh Dang 
+- [ K8S Walid Shaari](https://github.com/aireddy73/Kubernetes-Certified-Administrator)
+- [Bhargav Bachina ](https://github.com/aireddy73/CKAD-Practice-Questions) 
+- [CKA Zeal Vora](https://github.com/aireddy73/CKAD-exercises) 
+- [CKAD Zeal Vora](https://github.com/aireddy73/certified-kubernetes-application-developer) CKAD Zeal Vora
+- [CKAD - Dimitris-Ilias Gkanatsios](https://github.com/aireddy73/CKAD-exercises) 
+- [CKAD - Subodh Dharmadhikari](https://github.com/aireddy73/ckad) 
+- [Eric Shanks](https://github.com/aireddy73/k8s-guide) 
+- [K8S Tutorials](https://github.com/aireddy73/K8s-training-official)  
+- [Network Policies](https://github.com/aireddy73/kubernetes-network-policy-recipes)
+- [Tom Armstrong](https://github.com/twajr/ckad-prep-notes)
