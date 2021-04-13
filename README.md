@@ -3,9 +3,13 @@
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
 
 # Getting Started with Kubernetes
+- [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+- [Concepts](https://kubernetes.io/docs/concepts/)
+- [Tasks](https://kubernetes.io/docs/tasks/)
 - [Getting Started with Kubernetes Eric Shanks](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/) 
 - [Kubernetes Certified Application Developer (CKAD) Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-- [Certified Kubernetes Administrator (CKA) Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [Certified Kubernetes Administrator (CKA) Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
+- 
 
 # CKAD Exercises
 
