@@ -32,23 +32,23 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 ### Contents
 
-- [Core Concepts - 13%](a.core_concepts.md)
-- [Multi-container pods - 10%](b.multi_container_pods.md)
-- [Pod design - 20%](c.pod_design.md)
-- [Configuration - 18%](d.configuration.md)
-- [Observability - 18%](e.observability.md)
-- [Services and networking - 13%](f.services.md)
-- [State persistence - 8%](g.state.md)
-- [Bonus Exercises](h.h.bonus.md)
+- [Core Concepts - 13%](1-Core Concepts.md)
+- [Configuration - 18%](2-Configuration.md)
+- [Multi-container pods - 10%](3-Multi-Container Pods.md)
+- [Observability - 18%](4-Observability.md)
+- [Pod design - 20%](5-Pod Design.md)
+- [Services and networking - 13%](6-Services & Networking.md)
+- [State persistence - 8%](7-State Persistence.md)
+- [Bonus Exercises](8-Bonus Exercises.md)
 
 ### Where to Practice 
 
 - [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
 - [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
-- [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
-- [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
 - [Configuration - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/configuration.html)
+- [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
 - [Observability - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/observability.html)
+- [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
 - [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
 - [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
 
