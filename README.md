@@ -51,7 +51,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
 - [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
 
-## Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
+#### Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
 [creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
 
 # Tasks from Kubernetes Doc
