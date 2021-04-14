@@ -39,6 +39,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Observability - 18%](e.observability.md)
 - [Services and networking - 13%](f.services.md)
 - [State persistence - 8%](g.state.md)
+- [Bonus Exercises](h.h.bonus.md)
 
 ### Where to Practice 
 
