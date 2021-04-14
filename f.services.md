@@ -29,7 +29,6 @@ kubectl run nginx --image=nginx --restart=Never --port=80 --expose
 kubectl get svc nginx # services
 kubectl get ep # endpoints
 ```
-
 </p>
 </details>
 
