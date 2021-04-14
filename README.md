@@ -543,6 +543,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [CKAD - Dimitris-Ilias Gkanatsios](https://github.com/aireddy73/CKAD-exercises) 
 - [CKAD - Subodh Dharmadhikari](https://github.com/aireddy73/ckad) 
 - [Eric Shanks](https://github.com/aireddy73/k8s-guide) 
+- [Benjamin Muschko](https://github.com/bmuschko)
 - [K8S Tutorials](https://github.com/aireddy73/K8s-training-official)  
 - [Network Policies](https://github.com/aireddy73/kubernetes-network-policy-recipes)
 - [Tom Armstrong CKAD](https://github.com/twajr/ckad-prep-notes)
