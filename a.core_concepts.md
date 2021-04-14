@@ -697,6 +697,7 @@ kubectl get pods--sort-by=.metadata.creationTimestamp
 ```
 </p>
 </details>
+
 ## Creating a Pod and Inspecting it
 
 1. Create the namespace `ckad-prep`.
