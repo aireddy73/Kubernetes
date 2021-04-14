@@ -365,7 +365,7 @@ kubectl run nginx --restart=Never --image=nginx --env=var1=val1 -it --rm -- env
 </details>
 
 
-## Questions
+## Addional Questions for practice
 
 <details><summary>List all the namespaces in the cluster</summary>
 <p>
