@@ -129,9 +129,17 @@ List of resources and notes for passing the Certified Kubernetes Application Dev
 Version: 1.20
 
 ### Important vi Tips
-
+  -The moment you get into your exam terminal the first thing is you need to is below
+  - vim ~/.vimrc
+  - set nu
+  - set ic
+  - set expandtab
+  - set shiftwidth=2
+  - set tabstop=2
+  
   - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
-  - 'ZZ' - Save and exit quickly.
+  - 'ZZ' - Save and exit quickly. 
+  - [Vim Commands](https://github.com/aireddy73/Kubernetes/blob/main/vim_tutorial.pdf)
 
 ### kubectl Tips
 To set nano as your editor for 'kubectl edit'
