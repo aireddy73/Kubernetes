@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
-# Curriculum
+## Curriculum
 
 Open Source Curriculum for CNCF Certification Courses
 
@@ -15,7 +15,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
 - [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum)
 
-# Getting Started with Kubernetes
+## Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 - [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
 - [Kubernetes Tasks](https://kubernetes.io/docs/tasks/)
@@ -24,7 +24,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Certified Kubernetes Administrator (CKA) - Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 
-# CKAD Exercises
+## CKAD Exercises
 
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation, organized by curriculum domain. They may as well serve as learning and practicing with Kubernetes.
 
@@ -40,7 +40,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Services and networking - 13%](f.services.md)
 - [State persistence - 8%](g.state.md)
 
-# Where to Practice 
+### Where to Practice 
 
 - [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
 - [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
@@ -51,7 +51,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
 - [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
 
-# Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
+## Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
 [creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
 
 # Tasks from Kubernetes Doc
