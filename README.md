@@ -181,39 +181,6 @@ You will be given a list of 'tasks' to accomplish on one of four kubernetes clus
 
 The items in this particular repo / page describe and follow the official curriculum and point back to the various documents at Kubernetes.io.  There is a lot of content on k8s and a lot of it does not pertain to the CKAD exam, so I've pulled out the sections that are pertinent based on the curriculum. There is a nice checklist below that you can update once you think you have mastered a particular topic.
 
-I think the best approach is to fork this repo as a starting point for your studies, and then use the markdown checklist to ensure you cover all of the expected material, etc.
-
-### Current Progress
-The list below is based on the curriculum v1.20. Once you have mastered a section, check it off and move on to the next. You need to understand them ALL very well. The Core Concepts piece is kind of vague, but the others are defined well enough that it is easy to prepare for with a hands-on work through the tasks offered at kubernetes.io. The rest of this document follows this same outline of curriculum.
-
-- [ ] __Core Concepts - 13%__
-  - [ ] API Primitives
-  - [ ] Create and Configure Basic Pods
-- [ ] __Configuration - 18%__
-  - [ ] Understand ConfigMaps
-  - [ ] Understand SecurityContexts
-  - [ ] Define App Resource Requirements
-  - [ ] Create and Consume Secrets
-  - [ ] Understand Service Accounts
-- [ ] __Multi-Container Pods - 10%__
-  - [ ] Design Patterns: Ambassador, Adapter, Sidecar
-    - [ ] - Sidecar Pattern
-    - [ ] - Init Containers
-- [ ] __Pod Design - 20%__
-  - [ ] Using Labels, Selectors, and Annotations
-  - [ ] Understand Deployments and Rolling Updates
-  - [ ] Understand Deployment Rollbacks
-  - [ ] Understand Jobs and CronJobs
-- [ ] __State Persistence - 8%__
-  - [ ] - Understand PVCs for Storage
-- [ ] __Observability - 18%__
-  - [ ] Liveness and Readiness Probes
-  - [ ] Understand Container Logging
-  - [ ] Understand Monitoring Application in Kubernetes
-  - [ ] Understand Debugging in Kubernetes
-- [ ] __Services and Networking - 13%__
-  - [ ] Understand Services
-  - [ ] Basic Network Policies
 
 ### Create 2 Node Cluster on GKE
 
