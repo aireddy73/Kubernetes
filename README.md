@@ -33,8 +33,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 ### Contents
 
 - [Core Concepts - 13%](a.core_concepts.md)
-- [Configuration - 18%](2-Configuration.md)
-- [Multi-container pods - 10%](3-Multi-Container%20Pods.md)
+- [Configuration - 18%](d.configuration.md)
+- [Multi-container pods - 10%](b.multi_container_pods.md)
 - [Observability - 18%](e.observability.md)
 - [Pod design - 20%](c.pod_design.md)
 - [Services and networking - 13%](f.services.md)
