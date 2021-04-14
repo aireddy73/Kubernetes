@@ -267,7 +267,7 @@ cat passwd
 </p>
 </details>
 
-## Additonal Questions
+## Additonal Practice Questions
 
 
 <details><summary>List Persistent Volumes in the cluster</summary>
