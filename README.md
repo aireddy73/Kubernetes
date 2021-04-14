@@ -129,20 +129,14 @@ List of resources and notes for passing the Certified Kubernetes Application Dev
 Version: 1.20
 
 ### Important vi Tips
-  -The moment you get into your exam terminal the first thing is you need to is below
+ The moment you get into your exam terminal the first thing is you need to is below
   $ vim ~/.vimrc
-   aireddy@DESKTOP-54YUWE:~$ cat .vimrc
-set tabstop     =2
-set softtabstop =2
-set shiftwidth  =2
-set expandtab
-set ic
- 
-  - Ctrl + l for clear screen
-  - Shift + V to enable visual mode 
-  - use arrow keys to select multiple lines to highlight
-  - To move right all selected lines right 2 spaces #Shift .
-  - To move all selected lines to left #Shift , 
+    set nu
+    set ic
+    set expandtab
+    set shiftwidth=2
+    set tabstop=2
+ save this and you are good to write the exam and not to worry about the YAML indention issues
   - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
   - 'ZZ' - Save and exit quickly. 
   - [Vim Commands](https://github.com/aireddy73/Kubernetes/blob/main/vim_tutorial.pdf)
