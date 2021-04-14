@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
-## Curriculum
+### Curriculum
 
 Open Source Curriculum for CNCF Certification Courses
 
@@ -15,7 +15,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
 - [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum)
 
-## Getting Started with Kubernetes
+### Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 - [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
 - [Kubernetes Tasks](https://kubernetes.io/docs/tasks/)
@@ -24,13 +24,13 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Certified Kubernetes Administrator (CKA) - Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 
-## CKAD Exercises
+### CKAD Exercises
 
 A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation, organized by curriculum domain. They may as well serve as learning and practicing with Kubernetes.
 
 During the exam, you are allowed to keep only one other browser tab open to refer official documentation. Make a mental note of the breadcrumb at the start of the excercise section, to quickly locate the relevant document in kubernetes.io. It is recommended that you read official documents before attempting exercises below it.
 
-## Contents
+### Contents
 
 - [Core Concepts - 13%](a.core_concepts.md)
 - [Multi-container pods - 10%](b.multi_container_pods.md)
@@ -54,29 +54,29 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 #### Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
 [creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
 
-# Tasks from Kubernetes Doc
+### Tasks from Kubernetes Doc
 The following are primarily links to either the 'concepts' or 'tasks' section of the kubernetes.io documentation. The 'task' items are very useful to use as labs. I've tied them directly to the curriculum to ensure they are appropriate study material for the exam.
 
-## Core Concepts and Kubectl
+### Core Concepts and Kubectl
 
 - [Tasks -> Accessing Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 - [Tasks -> Accessing Cluster with API](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/)
 - [Tasks -> Port Forwarding](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
 - [Tasks -> Shell to Running Container (exec)](https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/)
 
-## Multi-Container Pods
+### Multi-Container Pods
 
 - [Tasks -> Init Containers](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/)
 - [Concepts -> Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 
-## Pod Design
+### Pod Design
 - [Concepts -> Assign Pods to Nodes - Selectors](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/)
 - [Concepts -> Annotations](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/)
 - [Concepts -> Labels and Selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
 - [Tasks -> ReplicaSet Rolling Updates](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
 - [Concepts -> Deployments, Rollouts, and Rollbacks](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - 
-## Configuration
+### Configuration
 
 - [Task -> Config Maps](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
 - [Task -> Security Contexts](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
@@ -87,7 +87,7 @@ The following are primarily links to either the 'concepts' or 'tasks' section of
 - [Tasks -> Project Volume w/Secrets](https://kubernetes.io/docs/tasks/configure-pod-container/configure-projected-volume-storage/)
 - [Tasks -> Setting Service Account](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
 
-## Observability
+### Observability
 - [Tasks -> App Introspection and Debugging](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/)
 - [Tasks - Liveness and Readiness Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/)
 - [Tasks -> Debugging Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-pod-replication-controller/)
@@ -96,12 +96,12 @@ The following are primarily links to either the 'concepts' or 'tasks' section of
 - [Tasks -> Debugging Services Locally](https://kubernetes.io/docs/tasks/debug-application-cluster/local-debugging/)
 - [Tasks -> Tools for Monitoring Resources](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
 
-## Services and Networking
+### Services and Networking
 
 - [Concepts -> Connecting Apps with Services](https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/)
 - [Tasks -> Declare Network Policy](https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/)
 
-## State Persistence
+### State Persistence
 - [Concepts -> Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
 - [Tasks -> Configuring PVCs](https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/)
 
@@ -112,7 +112,7 @@ The following are primarily links to either the 'concepts' or 'tasks' section of
 - [Tasks -> Fine Parallel Processsing with a Work Queue](https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/)
 
 
-# CKAD Exam Preparation Notes
+### CKAD Exam Preparation Notes
 List of resources and notes for passing the Certified Kubernetes Application Developer (CKAD) exam. Official links below.
 
 - [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
@@ -125,21 +125,21 @@ List of resources and notes for passing the Certified Kubernetes Application Dev
 - [TMUX Cheat Sheet - TMUX is useful, especially for CKA](https://gist.github.com/MohamedAlaa/2961058)
 
 
-## Current Kubernetes Version (EXAM)
+### Current Kubernetes Version (EXAM)
 Version: 1.20
 
-## Important vi Tips
+### Important vi Tips
 
   - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
   - 'ZZ' - Save and exit quickly.
 
-## kubectl Tips
+### kubectl Tips
 To set nano as your editor for 'kubectl edit'
 ```
 export KUBE_EDITOR="nano"
 ```
 
-## Outline
+### Outline
 Right now there are five primary sections to this document.
 - [General Exam Tips](#tips)
 - [Overview](#overview)
@@ -148,7 +148,7 @@ Right now there are five primary sections to this document.
 - [Detailed Review (with Tips) Ordered by Curriculum](#detailed-review)
 - [List of Resources Ordered by Curriculum (mostly K8s.io) for Study](#tasks-from-kubernetes-doc)
 
-# Tips
+### Tips
 Okay, this section is new and contains some general pointers to help pass the exam.
 
 First, as discussed later, the exam is primarily about speed. With that in mind, the best way to approach the moderate to complex questions is to generate the initial YAML via the dry run flag. Then, edit the file with either vi or nano, and then create the required resource. The steps are outlined below.
@@ -166,7 +166,7 @@ $ nano mypod.yaml
 $ kubectl create -f mypod.yaml
 pod "nginx" created
 ```
-# Overview
+### Overview
 The CKAD exam requires an excellent understanding of K8s along with how to efficiently use kubectl to accomplish various tasks on Kubernetes. I'm sure they use this exam approach as it pretty much precludes any form of cheating. You either know the material and can very quickly implement it or not.  
 
 You will be given a list of 'tasks' to accomplish on one of four kubernetes clusters (these are described in the official exam tips above). The exam is 'open book' but only with the content available at kubernetes.io. You will have one tab for the exam content and one additional tab for kubernetes.io. However, don't expect that you can just research questions during the exam, as there will be very little time for 'learning' a specific k8s concept at exam time. It's there to help with YAML syntax detail only, IMO.
@@ -175,7 +175,7 @@ The items in this particular repo / page describe and follow the official curric
 
 I think the best approach is to fork this repo as a starting point for your studies, and then use the markdown checklist to ensure you cover all of the expected material, etc.
 
-# Current Progress
+### Current Progress
 The list below is based on the curriculum v1.20. Once you have mastered a section, check it off and move on to the next. You need to understand them ALL very well. The Core Concepts piece is kind of vague, but the others are defined well enough that it is easy to prepare for with a hands-on work through the tasks offered at kubernetes.io. The rest of this document follows this same outline of curriculum.
 
 - [ ] __Core Concepts - 13%__
@@ -207,7 +207,7 @@ The list below is based on the curriculum v1.20. Once you have mastered a sectio
   - [ ] Understand Services
   - [ ] Basic Network Policies
 
-# Create 2 Node Cluster on GKE
+### Create 2 Node Cluster on GKE
 
 This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, that is all it required to pass this exam. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
 
@@ -229,24 +229,24 @@ NAME                                        STATUS    ROLES     AGE       VERSIO
 gke-my-cluster-default-pool-5f731fab-9d6n   Ready     <none>    44s       v1.15.8-gke.2
 gke-my-cluster-default-pool-5f731fab-llrb   Ready     <none>    41s       v1.15.8-gke.2
 ```
-## Setting kubectl Credentials
+### Setting kubectl Credentials
 If using the cloud shell, you'll sometimes need to authorize kubectl to connect to your cluster instance.
 ```
 gcloud container clusters get-credentials my-cluster
 ```
-## Deleting Your Cluster
+### Deleting Your Cluster
 No need to keep the cluster around when not studying, so:
 ```
 gcloud container clusters delete my-cluster
 ```
-## To Get Current GKE Kubernetes Versions
+### To Get Current GKE Kubernetes Versions
 ```
   gcloud container get-server-config
 ```
-# Detailed Review
+### Detailed Review
 The exam is about speed and efficiency. If you spend very much time looking at documentation, you will have zero chance of completing the many questions. With that said, the following will help with time management. I've aligned the tips to follow the curriculum. This section is best used to provide a quick overview of the curriculum along with the needed kubectl commands for a hands-on exam.
 
-## CORE CONCEPTS
+### CORE CONCEPTS
 The core concepts section covers the core K8s API and its primitives and resources. It also covers the important concept of a POD. This is the basic unit of deployment for app developers and so this 'POD' concept is important to understand as well as how they are managed with kubectl. To me, this is embodied in the kubectl RUN command.
 
 ### Using the RUN/CREATE command for Pods, Deployments, etc.
@@ -262,7 +262,7 @@ $ kubectl create cronjob nginx --image=nginx --schedule="* * * * *"  #cronJob
 
 The above is helpful in the exam as speed is important. If the question indicates to 'create a pod', use the quick syntax to get a pod going.
 
-## CONFIGURATION
+### CONFIGURATION
 Configuration covers how run-time 'config' data is provided to your applications running in k8s. This includes environment variables, config maps, secrets, etc. Other items that are pertinent to config are the service account and security contexts used to execute the containers. The below items are covered by this part of the curriculum.
 
 ### Config Maps / Environment Variables
@@ -420,7 +420,7 @@ spec:
   serviceAccountName: build-robot
   ...
 ```
-## MULTI-CONTAINER PODS
+### MULTI-CONTAINER PODS
 This particular section needs additional detail as these concepts are not covered that well via the tasks provided at kubernetes.io. Actually, the best coverage (for sidecars) is in the concepts section under logging architecture.
 
 - One or more containers running within a pod for enhancing the main container functionality (logger container, git synchronizer container); These are sidecar container
@@ -431,7 +431,7 @@ This particular section needs additional detail as these concepts are not covere
 
 [Concepts -> Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
 
-## POD DESIGN
+### POD DESIGN
 The Pod design section mostly covers deployments, rolling updates, and rollbacks (and jobs). These are all covered well in the tasks section later in this document. The primary trick here is to really understand the basic commands for updating a deployment which causes a new replicaSet to be created for the rollout. Both replica sets exist as the rollout continues and completes.
 
 ### Deployment Updates
@@ -489,10 +489,10 @@ You can also redirect (> cron.yaml) the above to a file, edit it to add the cont
 ```
 $ kubectl create -f cron.yaml
 ```
-## STATE PERSISTENCE
+### STATE PERSISTENCE
 This is still one of my weaknesses and the whole PV creation is high dependent on the underlying cloud or file storage technique used. For now, the links provided later in the persistence tasks are best for studying this.
 
-## OBSERVABILITY
+### OBSERVABILITY
 This part of the curriculum covers the logging, debugging, and metrics of your running applications.
 
 ### Container Metrics
@@ -502,7 +502,7 @@ $ kubectl top pod -n my-namespace
 $ kubectl top node -n my-namespace
 ```
 
-## SERVICES and NETWORKING
+### SERVICES and NETWORKING
 Services are pretty straight forward, but there are lots of networking details in a k8s cluster. The curriculum only mentions network policies so you should understand that particular aspect of networking in good detail.
 
 ### Services
@@ -531,7 +531,7 @@ By default, pods are non-isolated; they accept traffic from any source.
 
 Pods become isolated by having a NetworkPolicy that selects them. Once there is any NetworkPolicy in a namespace selecting a particular pod, that pod will reject any connections that are not allowed by any NetworkPolicy. (Other pods in the namespace that are not selected by any NetworkPolicy will continue to accept all traffic.)
 
-## MISCELANEOUS TIPS and TRICKS
+### MISCELANEOUS TIPS and TRICKS
 
 ### Extracting yaml from running resource
 Use the --export and -o yaml flags to export the basic yaml from an existing resource:
