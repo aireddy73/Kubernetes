@@ -130,13 +130,19 @@ Version: 1.20
 
 ### Important vi Tips
   -The moment you get into your exam terminal the first thing is you need to is below
-  - vim ~/.vimrc
-  - set nu
-  - set ic
-  - set expandtab
-  - set shiftwidth=2
-  - set tabstop=2
-  
+  $ vim ~/.vimrc
+   aireddy@DESKTOP-54YUWE:~$ cat .vimrc
+set tabstop     =2
+set softtabstop =2
+set shiftwidth  =2
+set expandtab
+set ic
+ 
+  - Ctrl + l for clear screen
+  - Shift + V to enable visual mode 
+  - use arrow keys to select multiple lines to highlight
+  - To move right all selected lines right 2 spaces #Shift .
+  - To move all selected lines to left #Shift , 
   - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
   - 'ZZ' - Save and exit quickly. 
   - [Vim Commands](https://github.com/aireddy73/Kubernetes/blob/main/vim_tutorial.pdf)
