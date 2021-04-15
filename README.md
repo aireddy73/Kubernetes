@@ -32,14 +32,14 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 ### Contents
 
-- [Core Concepts - 13%](a.core_concepts.md)
-- [Configuration - 18%](d.configuration.md)
-- [Multi-container pods - 10%](b.multi_container_pods.md)
-- [Observability - 18%](e.observability.md)
-- [Pod design - 20%](c.pod_design.md)
-- [Services and networking - 13%](f.services.md)
-- [State persistence - 8%](g.state.md)
-- [Bonus Exercises](h.bonus.md)
+- [Core Concepts - 13%](1-CoreConcepts.md)
+- [Configuration - 18%](2-Configuration.md)
+- [Multi-container pods - 10%](3-Multi-Container-Pods.md)
+- [Observability - 18%](4-Observability.md)
+- [Pod design - 20%](5-Pod-Design.md)
+- [Services and networking - 13%](6-Services-Networking.md)
+- [State persistence - 8%](7-StatePersistence.md)
+- [Bonus Exercises](8-BonusExercises.md)
 
 ### Where to Practice 
 
