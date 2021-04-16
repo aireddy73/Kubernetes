@@ -8,7 +8,8 @@ Source code for book https://learning.oreilly.com/library/view/certified-kuberne
 
 This study guide walks you through all the topics you need to fully prepare for the exam covering Kubernetes 1.19. Author Benjamin Muschko also shares his personal experience with preparing for all aspects of the exam.
 
-== Source Code
+== Source Code 
+
 
 1. Exam Details and Resources
 2. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch02[Core Concepts]
