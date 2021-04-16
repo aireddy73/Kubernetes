@@ -40,7 +40,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Pod design - 20%](5-Pod-Design.md)
 - [Services and networking - 13%](6-Services-and-Networking.md)
 - [State persistence - 8%](7-StatePersistence.md)
-- [Bonus Exercises](8-BonusExercises.md)
+- [Bonus Exercises](8-BonusExercises.md) 
+- [CKAD Study Guide](https://github.com/aireddy73/ckad-study-guide)
 
 ### Where to Practice 
 
