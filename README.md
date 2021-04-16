@@ -22,6 +22,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Getting Started with Kubernetes - Eric Shanks](https://theithollow.com/2019/01/26/getting-started-with-kubernetes/) 
 - [Kubernetes Certified Application Developer (CKAD) - Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 - [Certified Kubernetes Administrator (CKA) - Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
+- [ Certified Kubernetes Security Specialist (CKS) - Mumshad Mannambeth](https://kodekloud.com/courses/enrolled/1378608)
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 
 ### CKAD Exercises
@@ -538,6 +539,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 
 ### References
 - [ K8S Walid Shaari](https://github.com/aireddy73/Kubernetes-Certified-Administrator)
+- [ Certified Kubernetes Security Specialist (CKS) Walid Shaari](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [Bhargav Bachina ](https://github.com/aireddy73/CKAD-Practice-Questions) 
 - [CKA Zeal Vora](https://github.com/aireddy73/CKAD-exercises) 
 - [CKAD Zeal Vora](https://github.com/aireddy73/certified-kubernetes-application-developer)
@@ -547,7 +549,9 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [Benjamin Muschko](https://github.com/bmuschko/ckad-prep)
 - [K8S Tutorials](https://github.com/aireddy73/K8s-training-official)  
 - [Network Policies](https://github.com/aireddy73/kubernetes-network-policy-recipes)
-- [Tom Armstrong CKAD](https://github.com/twajr/ckad-prep-notes)
+- [Tom Armstrong CKAD](https://github.com/twajr/ckad-prep-notes) 
+- [CKS-Kim Wüstkamp](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
+- [CKS-Kim Wüstkamp](https://wuestkamp.medium.com/)
 - [Medium Blog](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
 - [Medium Blog Anh Dang](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
 
