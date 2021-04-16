@@ -12,8 +12,8 @@ This study guide walks you through all the topics you need to fully prepare for 
 
 1. Exam Details and Resources
 2. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch02[Core Concepts]
-3. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch03/ch03[Configuration]
-4. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch04/ch04[Multi-Container Pods]
+3. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch03[Configuration]
+4. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch04[Multi-Container Pods]
 5. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch05[Observability]
 6. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch06[Pod Design]
 7. https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide/ch07[Services & Networking]
