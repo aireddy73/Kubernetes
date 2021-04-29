@@ -543,7 +543,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [ K8S Walid Shaari](https://github.com/aireddy73/Kubernetes-Certified-Administrator)
 - [ Certified Kubernetes Security Specialist (CKS) Walid Shaari](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [Bhargav Bachina ](https://github.com/aireddy73/CKAD-Practice-Questions) 
-- [CKA Zeal Vora](https://github.com/aireddy73/CKAD-exercises) 
+- [CKA Zeal Vora](https://github.com/aireddy73/certified-kubernetes-administrator) 
 - [CKAD Zeal Vora](https://github.com/aireddy73/certified-kubernetes-application-developer)
 - [CKAD - Dimitris-Ilias Gkanatsios](https://github.com/aireddy73/CKAD-exercises) 
 - [CKAD - Subodh Dharmadhikari](https://github.com/aireddy73/ckad) 
