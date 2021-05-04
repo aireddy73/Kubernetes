@@ -47,6 +47,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 - [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
 - [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)
+- [Instruct Getting started with Kubernetes](https://play.instruqt.com/public/topics/getting-started-with-kubernetes)
+- [Kubernetes by example](https://kubernetesbyexample.com/)
 - [Core Concepts - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/core-concepts.html)
 - [Configuration - 18%](https://liptanbiswas.com/tuts/ckad-practice-challenges/configuration.html)
 - [Multi-Container Pods - 10%](https://liptanbiswas.com/tuts/ckad-practice-challenges/multi-container-pods.html)
