@@ -24,6 +24,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Certified Kubernetes Administrator (CKA) - Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) 
 - [ Certified Kubernetes Security Specialist (CKS) - Mumshad Mannambeth](https://kodekloud.com/courses/enrolled/1378608)
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 
 ### CKAD Exercises
 
@@ -56,6 +57,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Pod Design - 20%](https://liptanbiswas.com/tuts/ckad-practice-challenges/pod-design.html)
 - [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
 - [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
+
 
 #### Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
 [creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
