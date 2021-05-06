@@ -19,6 +19,12 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [What is Docker?](https://dockerlabs.collabnix.com/beginners/docker/what-is-docker.html)
 - [Getting started with Docker](https://dockerlabs.collabnix.com/)
 - [Play with Docker](https://labs.play-with-docker.com/)
+- [Docker for Beginners](https://dockerlabs.collabnix.com/beginners/README.html)
+- [Docker for Intermediate](https://dockerlabs.collabnix.com/intermediate/README.html)
+- [Docker for Advanced](https://dockerlabs.collabnix.com/advanced/README.html)
+- [Docker Certificate Associate Exam Preparation](https://dockerlabs.collabnix.com/docker/dca.html)
+- [More than Certified in Docker)[https://morethancertified.teachable.com/courses/enrolled/1356756)
+- [Docker Cheatsheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
 ### Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
