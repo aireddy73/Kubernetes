@@ -23,7 +23,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Docker for Intermediate](https://dockerlabs.collabnix.com/intermediate/README.html)
 - [Docker for Advanced](https://dockerlabs.collabnix.com/advanced/README.html)
 - [Docker Certificate Associate Exam Preparation](https://dockerlabs.collabnix.com/docker/dca.html)
-- [More than Certified in Docker)[https://morethancertified.teachable.com/courses/enrolled/1356756)
+- [More than Certified in Docker](https://morethancertified.teachable.com/courses/enrolled/1356756)
 - [Docker Cheatsheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
 ### Getting Started with Kubernetes
