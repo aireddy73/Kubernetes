@@ -13,7 +13,12 @@ This is the the latest version of the curriculum for the following CNCF exams:
 * Certified Kubernetes Application Developer (CKAD)
 * Certified Kubernetes Security Specialist (CKS)
 - [CNCF Official CKAD Main](https://www.cncf.io/certification/ckad/)
-- [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum)
+- [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum) 
+
+### Getting Started with Docker
+ -[What is Docker?](https://dockerlabs.collabnix.com/beginners/docker/what-is-docker.html)
+- [Getting started with Docker](https://dockerlabs.collabnix.com/)
+- [Play with Docker](https://labs.play-with-docker.com/)
 
 ### Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
