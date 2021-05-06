@@ -16,7 +16,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [CNCF Kubernetes Curriculum Repo](https://github.com/cncf/curriculum) 
 
 ### Getting Started with Docker
- -[What is Docker?](https://dockerlabs.collabnix.com/beginners/docker/what-is-docker.html)
+- [What is Docker?](https://dockerlabs.collabnix.com/beginners/docker/what-is-docker.html)
 - [Getting started with Docker](https://dockerlabs.collabnix.com/)
 - [Play with Docker](https://labs.play-with-docker.com/)
 
