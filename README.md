@@ -36,6 +36,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [ Certified Kubernetes Security Specialist (CKS) - Mumshad Mannambeth](https://kodekloud.com/courses/enrolled/1378608)
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+- [JSON Path for Beginners](https://medium.com/@sovmirich/jsonpath-for-beginners-part-1-3-b8c973edf79e)
 
 ### CKAD Exercises
 
