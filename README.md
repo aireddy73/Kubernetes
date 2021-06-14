@@ -71,19 +71,6 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Services & Networking - 13%](https://liptanbiswas.com/tuts/ckad-practice-challenges/service-network.html)
 - [State Persistence - 8%](https://liptanbiswas.com/tuts/ckad-practice-challenges/state-persistence.html) 
 
-### VI Setup before starting Exam
--[Once you've gained access to your terminal it might be wise to spend ~1 minute to setup your environment. Set these:]
- cloud_user@ControlPlane:~$ vim ~/.vimrc
-   set nu
-   set ic
-   set expandtab
-   set shiftwidth=2
-   set tabstop=2
-   set paste
-
-   set list is helpful to view hiddent charecters 
-  -[ vi for Beginners](https://youtu.be/zxfccHcl1Ns)
-
 
 #### Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
 [creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
@@ -170,6 +157,8 @@ Version: 1.20
     set expandtab
     set shiftwidth=2
     set tabstop=2
+    set list 
+ 
  save this and you are good to write the exam and not to worry about the YAML indention issues
   - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
   - 'ZZ' - Save and exit quickly. 
