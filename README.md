@@ -169,7 +169,7 @@ Version: 1.20
     save this and you are good to write the exam and not to worry about the YAML indention issues
     
     Cloud Server Hostname mapping   
-    172.31.38.***   fc170f8ada1c.mylabserver.com
+    172.31.38.***   xhyrgkf8ada5c.myserver.com
     172.31.38.***   ControlPlane
     172.31.36.***   WorkerNode1
     172.31.41.***   WorkerNode2
