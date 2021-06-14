@@ -151,18 +151,32 @@ Version: 1.20
 
 ### Important vi Tips
  The moment you get into your exam terminal the first thing is you need to is below
-  $ vim ~/.vimrc
+  
+    
+    
+
+    
+    $ vim ~/.vimrc
     set nu
     set ic
     set expandtab
     set shiftwidth=2
     set tabstop=2
-    set list 
- 
- save this and you are good to write the exam and not to worry about the YAML indention issues
-  - 'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
-  - 'ZZ' - Save and exit quickly. 
+    set list  ( This is very helpfull to see hidden charecters)
+    
+    To Shift+v is used for visual mode .. Once you are visual mode you can select number of rows using up/down arrow keys
+    once desired number of rows selected you can use shift + , or shift + . to move the indentation as needed.
+    save this and you are good to write the exam and not to worry about the YAML indention issues
+    
+   'dG' - Deletes contents from cursor to end of file. This is very useful when editing YAML files.
+   'ZZ' - Save and exit quickly. 
+    
   - [Vim Commands](https://github.com/aireddy73/Kubernetes/blob/main/vim_tutorial.pdf)
+  - [vi editor in Linux tutorial](https://youtu.be/zxfccHcl1Ns)
+  - [RHCSA 8 Complete Course in Single Video | Linux Certification](https://youtu.be/4P23_rhyTgc)
+
+ 
+ 
 
 ### kubectl Tips
 To set nano as your editor for 'kubectl edit'
