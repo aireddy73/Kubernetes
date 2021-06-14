@@ -73,7 +73,14 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 
 #### Create 2 node Cluster on Linux Academy playgroud or you can spinup cluster in one of the cloud providers (AWS, Azure or GCP)
-[creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf)
+[creating 2 node cluster with Kubeadm](https://github.com/aireddy73/Kubernetes/blob/main/Creating%20Kubenetes%202%20Node%20Cluster%20with%20Kubeadm.pdf) 
+
+sudo hostnamectl set-hostname ControlPlane 
+sudo hostnamectl set-hostname WorkerNode1
+sudo hostnamectl set-hostname WorkerNode2
+
+You need to have ControlPlane, WorkerNode1, WorkerNode2 IP entries in all 3 servers /etc/hosts. Once you save and exit you should be able to see custom names for host.
+
 
 ### Tasks from Kubernetes Doc
 The following are primarily links to either the 'concepts' or 'tasks' section of the kubernetes.io documentation. The 'task' items are very useful to use as labs. I've tied them directly to the curriculum to ensure they are appropriate study material for the exam.
