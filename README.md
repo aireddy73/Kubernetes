@@ -221,7 +221,24 @@ The items in this particular repo / page describe and follow the official curric
 
 ### Create 2 Node Cluster on GKE
 
-This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, that is all it required to pass this exam. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser.
+This particular exam is difficult for me as I didn't have a k8s cluster to use at work. CKA exam prepation requires more cluster-level work, I tried different approaches for an inexpensive k8s environment. I setup my 2 node cluster in Linux Academy Playgroud as well as Docker-Desktop single node cluster on Windows Laptop. In my opinion, that is all it required to pass this exam. You can also setup a gcloud account, and use a two-node GKE cluster for studying. You can even use the very nice google cloud shell and not even leave your browser. 
+
+Once you spin up the cluster set your own host name as mentioned below 
+sudo hostnamectl set-hostname ControlPlane
+sudo hostnamectl set-hostname WorkerNode1
+sudo hostnamectl set-hostname WorkerNode2
+
+you shoould have entries in all nodes similar to mentioned below 
+127.0.0.1 localhost
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+# Cloud Server Hostname mapping
+172.31.*8.**5   fc170f8ada1c.mylabserver.com
+172.31.**.*15   ControlPlane
+172.31.*6.51*   WorkerNode1
+172.31.*1.12*   WorkerNode2
+
+
 
 [gcloud command line (SDK) documentation](https://cloud.google.com/sdk/)
 
