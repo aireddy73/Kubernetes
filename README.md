@@ -601,6 +601,9 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [CKS-Kim Wüstkamp Medium Blog](https://wuestkamp.medium.com/)
 - [Medium Blog](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
 - [Medium Blog Anh Dang](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
+- [Kubernetes Tasks’s documentation!](https://multinode-kubernetes-cluster.readthedocs.io/en/latest/index.html)
+- [etcd backup restore](https://brandonwillmott.com/2020/09/03/backup-and-restore-etcd-in-kubernetes-cluster-for-cka-v1-19/)
+- [PV,PVC](https://dev.to/bzon/resizing-persistent-volumes-in-kubernetes-like-magic-4f96)
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
