@@ -600,6 +600,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [CKS-Kim Wüstkamp](https://www.udemy.com/course/certified-kubernetes-security-specialist/)
 - [CKS-Kode Kloud](https://kodekloud.com/courses/enrolled/1378608)
 - [CKS-Kim Wüstkamp Medium Blog](https://wuestkamp.medium.com/)
+- [CKS Useful links] (https://ravikirans.com/cks-kubernetes-security-exam-study-guide/)
 - [Medium Blog](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
 - [Medium Blog Anh Dang](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
 - [Kubernetes Tasks’s documentation!](https://multinode-kubernetes-cluster.readthedocs.io/en/latest/index.html)
