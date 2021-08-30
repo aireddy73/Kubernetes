@@ -182,6 +182,8 @@ Version: 1.20
     'ZZ' - Save and exit quickly. 
     
   - [Vim Commands](https://github.com/aireddy73/Kubernetes/blob/main/vim_tutorial.pdf)
+  - [Vim Interactive](https://www.openvim.com/)
+  - [ Vim Shortcuts](https://devhints.io/vim)
   - [vi editor in Linux tutorial](https://youtu.be/zxfccHcl1Ns)
   - [RHCSA 8 Complete Course in Single Video | Linux Certification](https://youtu.be/4P23_rhyTgc)
 
