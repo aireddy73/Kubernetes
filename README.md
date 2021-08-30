@@ -611,6 +611,8 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [Kubernetes Articles Matthew Palmer](https://matthewpalmer.net/kubernetes-app-developer/articles/)
 - [Learn Cloud Native Peter Jausovec ](https://learncloudnative.com/) 
 - [How to Setup Prometheus Monitoring On Kubernetes Cluster](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
+
+
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/aireddy73/kubernetes)
