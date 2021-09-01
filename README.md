@@ -37,6 +37,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 - [JSON Path for Beginners](https://medium.com/@sovmirich/jsonpath-for-beginners-part-1-3-b8c973edf79e)
+- [CKAD](https://blog.nillsf.com/index.php/category/ckad/)
 
 ### CKAD Exercises
 
@@ -610,6 +611,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [PV,PVC](https://dev.to/bzon/resizing-persistent-volumes-in-kubernetes-like-magic-4f96)
 - [Kubernetes Articles Matthew Palmer](https://matthewpalmer.net/kubernetes-app-developer/articles/)
 - [Learn Cloud Native Peter Jausovec ](https://learncloudnative.com/) 
+- [CKAD ](https://blog.nillsf.com/index.php/category/ckad/)
 - [How to Setup Prometheus Monitoring On Kubernetes Cluster](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 
 
