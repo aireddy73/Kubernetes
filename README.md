@@ -615,6 +615,7 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [CKAD ](https://blog.nillsf.com/index.php/category/ckad/)
 - [How to Setup Prometheus Monitoring On Kubernetes Cluster](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 - [ContainIQ blogs](https://www.containiq.com/blog)
+- [True Kubernetes Insights](https://blog.true-kubernetes.com/)
 
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
