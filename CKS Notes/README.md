@@ -1,4 +1,4 @@
-# k8s-cks-notes
+# CKS Notes
 
 ## ServiceAccounts
 
