@@ -583,9 +583,9 @@ metadata:
 ```
 
 
-- [Kubernetes backup and restore](https://velero.io/docs/v1.8/index.html)
+- [Kubernetes backup and restore -Velero](https://velero.io/docs/v1.8/index.html)
 - [Kubectl Cheat Sheet - Danny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4)
-- [Cloud Security Podcast)[https://cloudsecuritypodcast.tv/)
+- [Cloud Security Podcast](https://cloudsecuritypodcast.tv/)
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
 
