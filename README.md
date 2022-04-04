@@ -582,7 +582,10 @@ metadata:
   name: my-secret
 ```
 
--[KUBECTL KUBERNETES FREE CHEATSHEET](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4)
+
+- [Kubernetes backup and restore](https://velero.io/docs/v1.8/index.html)
+- [Kubectl Cheat Sheet - Danny Zhang](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4)
+- [Cloud Security Podcast)[https://cloudsecuritypodcast.tv/)
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
 
