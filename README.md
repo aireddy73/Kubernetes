@@ -58,7 +58,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [CKAD Study Guide](https://github.com/aireddy73/Kubernetes/tree/main/ckad-study-guide)
 
 ### Where to Practice 
-
+- [Killercoda CKS](https://killercoda.com/killer-shell-cks)
 - [Access the practice test environment on Katacoda:](https://www.katacoda.com/liptanbiswas/courses/ckad-practice-challenges)
 - [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)
 - [Play with Kubernetes](https://labs.play-with-k8s.com/)
