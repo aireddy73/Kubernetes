@@ -341,7 +341,6 @@ The task requires us to store logs for "unwanted package management processes" i
 
 ➜ root@cluster1-node1:/etc/falco# vim falco_rules.yaml
 ```
-
 Find the rule which looks like this:
 
 ```yaml
@@ -445,8 +444,8 @@ You received a list from the DevSecOps team which performed a security investiga
 Change the apiserver setup so that:
 
 * Only accessible through a ClusterIP Service
- 
 
+ 
 #### Answer:
 
 In order to modify the parameters for the apiserver, we first ssh into the master node and check which parameters the apiserver process is running with:
