@@ -1,4 +1,4 @@
-- [CKS Simulator Kubernetes 1.28](#cks-simulator-kubernetes-128)
+- [CKS Simulator Kubernetes 1.25](#cks-simulator-kubernetes-125)
   * [Pre Setup](#pre-setup)
   * [Question 1 | Contexts](#question-1--contexts)
   * [Question 2 | Runtime Security with Falco](#question-2--runtime-security-with-falco)
