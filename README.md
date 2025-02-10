@@ -624,8 +624,8 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 - [Medium article Sandeep Baldawa](https://sandeepbaldawa.medium.com/my-journey-towards-certified-kubernetes-security-specialist-cks-6a1b8f474824)
 - [Medium article Prashant Lakhera  ](https://www.101daysofdevops.com/my-road-to-certified-kubernetes-security-specialist-cks/)
 - [Medium article Arek Borucki](https://arekborucki.medium.com/how-to-pass-cks-certified-kubernetes-security-exam-part-1-347e0c48dd32)
-
+- [[sveltos](https://github.com/projectsveltos)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/aireddy73/kubernetes)
-[![sveltos](https://github.com/projectsveltos)
+
