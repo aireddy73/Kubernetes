@@ -25,6 +25,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [Docker Certificate Associate Exam Preparation](https://dockerlabs.collabnix.com/docker/dca.html)
 - [More than Certified in Docker](https://morethancertified.teachable.com/courses/enrolled/1356756)
 - [Docker Cheatsheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- [Docker Learning Path with Labs](https://labex.io/skilltrees/docker)
 
 ### Getting Started with Kubernetes
 - [What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
@@ -38,6 +39,7 @@ This is the the latest version of the curriculum for the following CNCF exams:
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 - [JSON Path for Beginners](https://medium.com/@sovmirich/jsonpath-for-beginners-part-1-3-b8c973edf79e)
 - [CKAD](https://blog.nillsf.com/index.php/category/ckad/)
+- [Kubernetes for Noobs](https://labex.io/courses/kubernetes-for-noobs)
 
 ### CKAD Exercises
 
